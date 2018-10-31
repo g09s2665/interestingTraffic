@@ -6,3 +6,4 @@ A collection of interesting traffic captures
 * DHCP - DHCP IP address allocation process
 * TCP - TCP Transfer with 3 and 4 way handshakes
 * traceroute www google com - traceroute capture of ICMP packets with increasing TTL values
+* SYN FLOOD (made using https://github.com/brent-shaw/MakeInterestingPCAP)
